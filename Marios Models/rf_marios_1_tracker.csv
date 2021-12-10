@@ -1,0 +1,121 @@
+folder 0 size train: 60790 size cv: 15230 AUC (fold 1/5): 0.835154
+folder 0 size train: 60879 size cv: 15141 AUC (fold 2/5): 0.834723
+folder 0 size train: 60739 size cv: 15281 AUC (fold 3/5): 0.837369
+folder 0 size train: 60752 size cv: 15268 AUC (fold 4/5): 0.825710
+folder 0 size train: 60920 size cv: 15100 AUC (fold 5/5): 0.853032
+==============================================================================================
+folder 1 size train: 60869 size cv: 15151 AUC (fold 1/5): 0.840848
+folder 1 size train: 60833 size cv: 15187 AUC (fold 2/5): 0.842232
+folder 1 size train: 60700 size cv: 15320 AUC (fold 3/5): 0.847623
+folder 1 size train: 60955 size cv: 15065 AUC (fold 4/5): 0.823912
+folder 1 size train: 60723 size cv: 15297 AUC (fold 5/5): 0.832246
+==============================================================================================
+folder 2 size train: 60746 size cv: 15274 AUC (fold 1/5): 0.853974
+folder 2 size train: 60710 size cv: 15310 AUC (fold 2/5): 0.830723
+folder 2 size train: 61055 size cv: 14965 AUC (fold 3/5): 0.842716
+folder 2 size train: 60788 size cv: 15232 AUC (fold 4/5): 0.852180
+folder 2 size train: 60781 size cv: 15239 AUC (fold 5/5): 0.816921
+==============================================================================================
+folder 3 size train: 60889 size cv: 15131 AUC (fold 1/5): 0.839054
+folder 3 size train: 60822 size cv: 15198 AUC (fold 2/5): 0.825265
+folder 3 size train: 60695 size cv: 15325 AUC (fold 3/5): 0.837303
+folder 3 size train: 60830 size cv: 15190 AUC (fold 4/5): 0.835970
+folder 3 size train: 60844 size cv: 15176 AUC (fold 5/5): 0.851968
+==============================================================================================
+folder 4 size train: 60749 size cv: 15271 AUC (fold 1/5): 0.838329
+folder 4 size train: 60899 size cv: 15121 AUC (fold 2/5): 0.843813
+folder 4 size train: 60942 size cv: 15078 AUC (fold 3/5): 0.829979
+folder 4 size train: 60729 size cv: 15291 AUC (fold 4/5): 0.838561
+folder 4 size train: 60761 size cv: 15259 AUC (fold 5/5): 0.842568
+==============================================================================================
+folder 5 size train: 60817 size cv: 15203 AUC (fold 1/5): 0.845464
+folder 5 size train: 60811 size cv: 15209 AUC (fold 2/5): 0.837814
+folder 5 size train: 60951 size cv: 15069 AUC (fold 3/5): 0.832284
+folder 5 size train: 60798 size cv: 15222 AUC (fold 4/5): 0.845630
+folder 5 size train: 60703 size cv: 15317 AUC (fold 5/5): 0.832495
+==============================================================================================
+folder 6 size train: 60903 size cv: 15117 AUC (fold 1/5): 0.843392
+folder 6 size train: 60774 size cv: 15246 AUC (fold 2/5): 0.830221
+folder 6 size train: 60666 size cv: 15354 AUC (fold 3/5): 0.841753
+folder 6 size train: 60880 size cv: 15140 AUC (fold 4/5): 0.841321
+folder 6 size train: 60857 size cv: 15163 AUC (fold 5/5): 0.831110
+==============================================================================================
+folder 7 size train: 60817 size cv: 15203 AUC (fold 1/5): 0.840009
+folder 7 size train: 60868 size cv: 15152 AUC (fold 2/5): 0.838596
+folder 7 size train: 60733 size cv: 15287 AUC (fold 3/5): 0.825951
+folder 7 size train: 61062 size cv: 14958 AUC (fold 4/5): 0.838380
+folder 7 size train: 60600 size cv: 15420 AUC (fold 5/5): 0.848865
+==============================================================================================
+folder 8 size train: 60771 size cv: 15249 AUC (fold 1/5): 0.833448
+folder 8 size train: 60731 size cv: 15289 AUC (fold 2/5): 0.838679
+folder 8 size train: 60927 size cv: 15093 AUC (fold 3/5): 0.839511
+folder 8 size train: 60818 size cv: 15202 AUC (fold 4/5): 0.845496
+folder 8 size train: 60833 size cv: 15187 AUC (fold 5/5): 0.826954
+==============================================================================================
+folder 9 size train: 60927 size cv: 15093 AUC (fold 1/5): 0.835614
+folder 9 size train: 60836 size cv: 15184 AUC (fold 2/5): 0.849443
+folder 9 size train: 60659 size cv: 15361 AUC (fold 3/5): 0.821236
+folder 9 size train: 60873 size cv: 15147 AUC (fold 4/5): 0.831966
+folder 9 size train: 60785 size cv: 15235 AUC (fold 5/5): 0.843484
+==============================================================================================
+folder 10 size train: 60695 size cv: 15325 AUC (fold 1/5): 0.835586
+folder 10 size train: 60800 size cv: 15220 AUC (fold 2/5): 0.843727
+folder 10 size train: 60806 size cv: 15214 AUC (fold 3/5): 0.839378
+folder 10 size train: 60594 size cv: 15426 AUC (fold 4/5): 0.839326
+folder 10 size train: 61185 size cv: 14835 AUC (fold 5/5): 0.824050
+==============================================================================================
+folder 11 size train: 60697 size cv: 15323 AUC (fold 1/5): 0.826186
+folder 11 size train: 60929 size cv: 15091 AUC (fold 2/5): 0.849210
+folder 11 size train: 60806 size cv: 15214 AUC (fold 3/5): 0.834041
+folder 11 size train: 60904 size cv: 15116 AUC (fold 4/5): 0.843976
+folder 11 size train: 60744 size cv: 15276 AUC (fold 5/5): 0.830817
+==============================================================================================
+folder 12 size train: 60707 size cv: 15313 AUC (fold 1/5): 0.848899
+folder 12 size train: 60752 size cv: 15268 AUC (fold 2/5): 0.831244
+folder 12 size train: 60916 size cv: 15104 AUC (fold 3/5): 0.831145
+folder 12 size train: 60806 size cv: 15214 AUC (fold 4/5): 0.838893
+folder 12 size train: 60899 size cv: 15121 AUC (fold 5/5): 0.839977
+==============================================================================================
+folder 13 size train: 60821 size cv: 15199 AUC (fold 1/5): 0.823116
+folder 13 size train: 60994 size cv: 15026 AUC (fold 2/5): 0.844422
+folder 13 size train: 60788 size cv: 15232 AUC (fold 3/5): 0.838722
+folder 13 size train: 60676 size cv: 15344 AUC (fold 4/5): 0.833663
+folder 13 size train: 60801 size cv: 15219 AUC (fold 5/5): 0.848954
+==============================================================================================
+folder 14 size train: 60941 size cv: 15079 AUC (fold 1/5): 0.843077
+folder 14 size train: 60631 size cv: 15389 AUC (fold 2/5): 0.847157
+folder 14 size train: 60718 size cv: 15302 AUC (fold 3/5): 0.828704
+folder 14 size train: 60897 size cv: 15123 AUC (fold 4/5): 0.834571
+folder 14 size train: 60893 size cv: 15127 AUC (fold 5/5): 0.836453
+==============================================================================================
+folder 15 size train: 60754 size cv: 15266 AUC (fold 1/5): 0.849515
+folder 15 size train: 60813 size cv: 15207 AUC (fold 2/5): 0.840325
+folder 15 size train: 60955 size cv: 15065 AUC (fold 3/5): 0.829796
+folder 15 size train: 60704 size cv: 15316 AUC (fold 4/5): 0.833518
+folder 15 size train: 60854 size cv: 15166 AUC (fold 5/5): 0.838770
+==============================================================================================
+folder 16 size train: 60876 size cv: 15144 AUC (fold 1/5): 0.833560
+folder 16 size train: 60785 size cv: 15235 AUC (fold 2/5): 0.826398
+folder 16 size train: 60817 size cv: 15203 AUC (fold 3/5): 0.849534
+folder 16 size train: 60911 size cv: 15109 AUC (fold 4/5): 0.838919
+folder 16 size train: 60691 size cv: 15329 AUC (fold 5/5): 0.836917
+==============================================================================================
+folder 17 size train: 60996 size cv: 15024 AUC (fold 1/5): 0.828814
+folder 17 size train: 60808 size cv: 15212 AUC (fold 2/5): 0.843194
+folder 17 size train: 60770 size cv: 15250 AUC (fold 3/5): 0.844807
+folder 17 size train: 60767 size cv: 15253 AUC (fold 4/5): 0.829957
+folder 17 size train: 60739 size cv: 15281 AUC (fold 5/5): 0.839106
+==============================================================================================
+folder 18 size train: 60781 size cv: 15239 AUC (fold 1/5): 0.826792
+folder 18 size train: 60992 size cv: 15028 AUC (fold 2/5): 0.837101
+folder 18 size train: 60814 size cv: 15206 AUC (fold 3/5): 0.850499
+folder 18 size train: 60679 size cv: 15341 AUC (fold 4/5): 0.841258
+folder 18 size train: 60814 size cv: 15206 AUC (fold 5/5): 0.834838
+==============================================================================================
+folder 19 size train: 60774 size cv: 15246 AUC (fold 1/5): 0.836186
+folder 19 size train: 60653 size cv: 15367 AUC (fold 2/5): 0.829682
+folder 19 size train: 60863 size cv: 15157 AUC (fold 3/5): 0.851516
+folder 19 size train: 60897 size cv: 15123 AUC (fold 4/5): 0.830693
+folder 19 size train: 60893 size cv: 15127 AUC (fold 5/5): 0.841835
+==============================================================================================
+ Grand AUC: 0.838932
