@@ -1,2 +1,2 @@
-Đây là nhóm mô hình Marios, để chạy ra được kết quả, đầu tiên chạy các file kNN_Marios_1.ipynb, NN_Marios_1.ipynb, NN_Marios_1_2.ipynb, NN_Marios_1_3.ipynb; sau đó chạy file blender.ipynb.
+Đây là nhóm mô hình Marios, để chạy ra được kết quả, đầu tiên chạy các file kNN_Marios_1.ipynb, NN_Marios_1.ipynb, NN_Marios_1_2.ipynb, NN_Marios_1_3.ipynb, XGBoost_Marios.ipynb; sau đó chạy file blender.ipynb.
 Kết quả được lưu trong thư mục data/output.
