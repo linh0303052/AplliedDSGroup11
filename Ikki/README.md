@@ -1,0 +1,2 @@
+Đây là nhóm mô hình Ikki, đầu tiên chạy các file feature_engineering_1.ipynb, feature_engineering_2.ipynb, train_feature_1.ipynb, train_feature_2; sau đó chạy file final_merge.ipynb.
+Kết quả được lưu trong thư mục data/output.
